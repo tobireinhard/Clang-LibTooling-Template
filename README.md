@@ -1,1 +1,1 @@
-# Template-for-Clang-LibTooling-Projects
+# Clang-LibTooling-Template
